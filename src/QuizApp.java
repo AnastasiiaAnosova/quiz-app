@@ -3,25 +3,56 @@ import java.io.IOException;
 import java.util.*;
 
 public class QuizApp {
-    private static final String FILE_NAME = "questions.txt";
+    private static final String QUESTIONS_IN_ENGLISH = "questions.txt";
+    private static final String QUESTIONS_IN_CZECH = "otazky.txt";
     private static final int TIME_LIMIT_SECONDS = 10;
 
     public static void main(String[] args) {
-        List<Question> questions = loadQuestions(FILE_NAME);
-
-        if (questions.isEmpty()) {
-            System.out.println("No questions found!");
-            return;
-        }
 
         Scanner scanner = new Scanner(System.in);
+        String language;
+        System.out.println("Welcome to the quiz!\n");
+        while(true) {
+            System.out.print("Select language\nEN/en - English\nCS/cs - Czech\nYour choice is: ");
+//            if(!scanner.hasNextLine()) {
+//                System.out.println("\nSelect EN/en - English or CS/cs - Czech!");
+//                scanner.nextLine(); // clear buffer
+//                continue;
+//            }
+            language = scanner.nextLine().toUpperCase().trim();
+            if(language.equals("EN") || language.equals("CS")) {
+                break;
+            } else {
+                System.out.println("Invalid choice, please type EN or CS!\n");
+            }
+        }
+
+        List<Question> questions;
+
+        switch(language){
+            case "EN" :
+                questions = loadQuestions(QUESTIONS_IN_ENGLISH);
+                break;
+            case "CS" :
+                questions = loadQuestions(QUESTIONS_IN_CZECH);
+                break;
+            default:
+                System.out.println("Invalid choice! For default language will be used English");
+                questions = loadQuestions(QUESTIONS_IN_ENGLISH);
+                break;
+        }
+
+        if (questions.isEmpty()) {
+            System.out.println("\nNo questions found!");
+            return;
+        }
 
         Set<String> categories = new HashSet<>();
         for (Question q: questions) {
             categories.add(q.getCategory());
         }
 
-        System.out.println("Available categories: ");
+        System.out.println("\nAvailable categories: ");
         int i = 1;
         List<String> categoryList = new ArrayList<>(categories);
         for (String c : categoryList) {
@@ -41,6 +72,7 @@ public class QuizApp {
 //            System.out.println("Invalid choice!");
 //            return;
 //        }
+
         int choice = -1;
         while(true) {
             System.out.print("Select category (by number): ");
@@ -81,7 +113,18 @@ public class QuizApp {
 
             long startTime = System.currentTimeMillis();
             String input = "";
+            int lastSecond = TIME_LIMIT_SECONDS;
+
             while (System.currentTimeMillis() - startTime < TIME_LIMIT_SECONDS * 1000 && input.isEmpty()) {
+
+                long elapsed = System.currentTimeMillis() - startTime;
+                int remaining = TIME_LIMIT_SECONDS - (int) (elapsed / 1000);
+
+                if (remaining < lastSecond) {
+                    System.out.println("Time left: " + remaining + " seconds");
+                    lastSecond = remaining;
+                }
+
                 if (scanner.hasNext()) {
 //                    input = scanner.next();
                     input = scanner.next().trim().toUpperCase();

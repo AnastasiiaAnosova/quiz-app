@@ -1,107 +1,55 @@
-Matematika|Co je 150% ze 100?|150|50|100|A
-Matematika|Kolik je 8 děleno 2?|4|16|6|A
-Matematika|Kolik stran má hexagon?|5|6|7|B
-Chemie|Který z těchto prvků má ve valenční vrstvě 2 nepárové elektrony?|Sodík|Vápník|Kyslík|C
-Chemie|Který z těchto sloučenin má nejvíce kovalentní vazbu?|NaCl|F2|MgS|B
-Chemie|Jaká je kyselina v octě?|Kyselina chlorovodíková|Kyselina octová|Kyselina sírová|B
-Biologie|Co je název pro kapalinu obklopující mozek a míchu?|Krev|Lymfa|Mozkomíšní mok|C
-Biologie|Kolik vakuol kontraktilních mají většinou druhy Paramecium?|Jednu|Dvě|Tři|B
-Biologie|Jak se nazývá stadium vývoje tkáňové diferenciace?|Zygota|Morula|Gastrula|C
-Programování|Co je programování?|Způsob tvorby webů|Proces psaní instrukcí pro počítač|Hardware|B
-Programování|Jaký programovací jazyk je nejpoužívanější pro webové aplikace?|Java|Python|JavaScript|C
-Historie|Kdo byli tři králové Izraele?|Saul, David, Šalamoun|Karel, Ludvík, Jan|Petr, Pavel, Marek|A
-Historie|Jaká říše je známá jako Zlatý věk Indie?|Maurjská|Gupta|Mughalská|B
-Historie|Jaký byl nejstarší formou psaní v Egyptě?|Klinové písmo|Hieroglyfy|Latinka|B
-Matematika|Jaký je druhý derivát funkce f(x) = x^3?|6x|3x|0|A
-Matematika|Kolik je součet úhlů v trojúhelníku?|90°|180°|360°|B
-Chemie|Co je molekula vody z chemického hlediska?|H2O|CO2|O2|A
-Chemie|Jaký je oxidační stav kyslíku v peroxidu vodíku?| -1| -2| 0|A
-Biologie|Jaký orgán je hlavní součástí lidského trávicího systému?|Srdce|Játra|Žaludek|C
-Biologie|Co je fotosyntéza?|Rozklad vody|Tvorba glukózy z CO2 a světla|Dýchání|B
-Programování|Co znamená zkratka OOP?|Open Online Programming|Object-Oriented Programming|Operational Output Process|B
-Programování|Který jazyk se používá pro vývoj Android aplikací?|Swift|Kotlin|C#|B
-Historie|Kdy začala 1. světová válka?|1914|1918|1939|A
-Historie|Kdo byl první prezident USA?|George Washington|Thomas Jefferson|Abraham Lincoln|A
-Matematika|Jak se nazývá rovnice s proměnnou v exponentu?|Kvadratická rovnice|Logaritmická rovnice|Exponenciální rovnice|C
-Matematika|Co je Ludolfovo číslo?|Číslo 42|Číslo pí|Číslo e|B
-Matematika|Co je druhá mocnina?|násobení čísla sebou|dělení čísla sebou|sčítání čísla sebou|A
-Chemie|Který prvek je na periodické tabulce označen symbolem H?|Helium|Hliník|Vodík|C
-Chemie|Co je pH?|Míra tvrdosti vody|Míra kyselosti nebo 3 roztoku|Míra hustoty plynu|B
-Chemie|Který plyn je nejvíce zastoupen v zemské atmosféře?|Kyslík|Oxid uhličitý|Dusík|C
-Chemie|Jak se nazývá sloučenina H₂O?|Oxid uhličitý|Peroxid vodíku|Voda|C
-Biologie|Jak se nazývá základní stavební jednotka živých organismů?|Atom|Buňka|Molekula|B
-Biologie|Jaký orgán je zodpovědný za čerpání krve?|Plíce|Srdce|Žaludek|B
-Biologie|Jak se nazývá proces přeměny světelné energie na chemickou?|Fotosyntéza|Dýchání|Transpirace|A
-Biologie|Co je to fotosyntéza?|proces trávení potravy|proces dýchání rostlin|proces přeměny světelné energie na chemickou|C
-Programování|Který jazyk není objektově orientovaný?|C++|Java|C|C
-Programování|Co je to debugování?|Proces psaní kódu|Proces hledání a opravování chyb v kódu|Proces kompilace kódu|B
-Programování|Co je to proměnná?|Způsob, jak pojmenovat funkci|Místo v paměti pro uložení dat|Typ cyklu|B
-Programování|Jaký je klíčové slovo pro deklaraci proměnné v jazyce Java?|var|let|int, String, atd.|C
-Historie|Který rok začala 2. světová válka?|1918|1939|1945|B
-Historie|Který český král byl přezdíván "otec vlasti"?|Karel IV.|Václav I.|Jan Lucemburský|A
-Historie|Kdo byl prvním prezidentem Československa?|Edvard Beneš|Tomáš Garrigue Masaryk|Antonín Zápotocký|B
-Historie|Co je to husitství?|politické hnutí v 19. století|náboženské a sociální hnutí v 15. století|ozbrojený konflikt z 18. století|B
-Geografie|Který pohoří rozděluje Evropu a Asii?|Alpy|Pyreneje|Ural|C
-Geografie|Jaké je největší jezero v České republice?|Lipno|Černé jezero|Máchovo jezero|A
-Geografie|Jak se nazývá nejdelší řeka světa?|Amazonka|Nil|Jang-c'-ťiang|A
-Geografie|Který oceán je největší?|Atlantský oceán|Indický oceán|Tichý oceán|C
-Geografie|Kde se nachází poušť Sahara?|Afrika|Asie|Austrálie|A
-Geografie|Jaký je hlavní město Francie?|Berlín|Paříž|Řím|B
-Geografie|Na kterém kontinentě je Himálaj?|Asie|Evropa|Jižní Amerika|A
-Literatura|Kdo napsal knihu Babička?|Božena Němcová|Karel Hynek Mácha|Alois Jirásek|A
-Literatura|Kdo je autorem románu Harry Potter?|J. R. R. Tolkien|Stephen King|J. K. Rowlingová|C
-Literatura|Který literární žánr se zabývá vymyšlenými příběhy s nadpřirozenými prvky?|Krimi|Sci-fi|Fantasy|C
-Literatura|Co je to sonet?|Básnická forma o 14 verších|Typ povídky|Dlouhý epický román|A
-Geografie|Jaké je hlavní město Austrálie?|Sydney|Melbourne|Canberra|C
-Geografie|Jaký je nejvyšší vrchol světa?|Mount Everest|K2|Kangchenjunga|A
-Geografie|Jak se jmenuje největší jezero na světě?|Kaspické moře|Horní jezero|Viktoriino jezero|A
-Geografie|Která země má nejvíce obyvatel?|Indie|Čína|USA|B
-Literatura|Kdo napsal „Malého prince“?|Antoine de Saint-Exupéry|Victor Hugo|Jules Verne|A
-Literatura|Jak se jmenuje autor „Pána prstenů“?|J.R.R. Tolkien|C.S. Lewis|George R.R. Martin|A
-Literatura|Co je epika?|Básnická forma|Prozaický žánr|Drama|B
-Literatura|Kdo napsal „Máj“?|Karel Hynek Mácha|Jaroslav Hašek|František Šrámek|A
-Literatura|Jaký je hlavní námět „Romea a Julie“?|Láska a tragédie|Dobrodružství|Detektivka|A
-Historie umění|Kdo namaloval obraz Mona Lisa?|Vincent van Gogh|Pablo Picasso|Leonardo da Vinci|C
-Historie umění|Jaké umělecké období se vyznačuje složitými a bohatými dekoracemi?|Baroko|Renesance|Klasicismus|A
-Historie umění|Který styl se projevoval v 19. století s důrazem na přírodu a emoce?|Impresionismus|Romantismus|Kubismus|B
-Historie umění|Který český umělec se proslavil svými plakáty ve stylu Art Nouveau (secese)?|Alfons Mucha|Mikoláš Aleš|Josef Mánes|Správná: A
-Hudba|Kdo je považován za "krále popu"?|Prince|Michael Jackson|Elvis Presley|B
-Hudba|Jaký je název hudebního nástroje, který se hraje pomocí kláves a má struny?|Kytara|Saxofon|Klavír|C
-Hudba|Který hudební styl vznikl v New Orleans na počátku 20. století?|Rock and roll|Jazz|Blues|B
-Hudba|Jaké je jméno známého českého skladatele, autora symfonie "Z Nového světa"?|Bedřich Smetana|Antonín Dvořák|Leoš Janáček|B
-Sport|Kolik hráčů má fotbalový tým na hřišti (včetně brankáře)?|10|11|12|B
-Sport|Jaký sport se hraje s míčkem a pálkou na hřišti ve tvaru diamantu?|Kriket|Softball|Baseball|C
-Sport|Kde se konaly letní olympijské hry v roce 2020 (ačkoli byly kvůli pandemii přeloženy na rok 2021)?|Rio de Janeiro|Tokio|Paříž|B
-Sport|Který sport je známý jako "královská hra" a má 64 polí na šachovnici?|Dáma|Šachy|Go|B
-Matematika|Jaký je výsledek součinu 5×0?|5|0|Nedefinované|B
-Matematika|Kolik stupňů má kruh?|90°|180°|360°|C
-Matematika|Jaký je objem krychle o straně 2 cm?|4cm^3|6cm^3|8cm^3|C
-Matematika|Co je to prvočíslo?|Číslo, které je dělitelné pouze 1 a sebou samým|Sudé číslo|Jakékoli číslo větší než 1|A
-Chemie|Co se stane, když se smíchá kyselina a zásada?|Vznikne sůl a voda|Dojde k výbuchu|Vznikne plyn|A
-Chemie|Který kov je kapalný za pokojové teploty?|Zlato|Rtuť|Olovo|B
-Chemie|Co je hlavní složkou skla?|Uhličitan sodný|Oxid křemičitý|Chlorid sodný|B
-Chemie|Jak se nazývá proces přeměny kapaliny na plyn?|Tání|Kondenzace|Vypařování|C
-Biologie|Jaký orgán v těle je zodpovědný za filtraci krve?|Srdce|Ledviny|Játra|B
-Biologie|Jak se nazývá proces, při kterém se rostliny uvolňují kyslík?|Dýchání|Fotosyntéza|Transpirace|B
-Biologie|Co je to mitochondrie?|Buněčná elektrárna|Jádro buňky|Buňka rostliny|A
-Biologie|Kolik kostí má dospělý člověk?|206|300|150|A
-Programování|Jaké je klíčové slovo pro vytvoření cyklu "pro" v jazyce Java?|loop|for|while|B
-Programování|Co je to kompilátor?|Program, který spouští kód|Program, který překládá zdrojový kód do strojového kódu|Nástroj na ladění chyb|B
-Programování|Co je to „Hello, World!“?|Typ chyby v kódu|První program, který se učí začátečníci|Jméno programátora|B
-Programování|Jak se v Javě označuje řádkový komentář?|//|#|--|A
-Historie|Která historická událost se stala v roce 1492?|Pád Římské říše|Objevení Ameriky|Vynález knihtisku|B
-Historie|Který slavný vojevůdce byl poražen u Waterloo?|Napoleon Bonaparte|Alexander Veliký|Julius Caesar|A
-Historie|Co je to Bastila?|Hrad ve Francii|Vězení v Paříži, jehož dobytím začala Francouzská revoluce|Název ulice v Paříži|B
-Literatura|Co je to alegorie?|Krátký vtipný příběh|Příběh s hlubším, skrytým významem|Typ básně|B
-Literatura|Kdo je autorem románu "1984"?|Aldous Huxley|George Orwell|J. R. R. Tolkien|B
-Literatura|Co je to metafora?|Přirovnání s použitím "jako"|Přenesení významu na základě podobnosti|Osobní oslovení neživého předmětu|B
-Fyzika|Jaká je základní jednotka elektrického proudu?|Ohm|Ampér|Volt|B
-Fyzika|Co je Newtonův třetí zákon pohybu?|Zákon setrvačnosti|Zákon síly|Zákon akce a reakce|C
-Fyzika|Která síla drží planety na oběžné dráze kolem Slunce?|Magnetická síla|Gravitační síla|Odstředivá síla|B
-Fyzika|Jak se nazývá proces přeměny pevné látky přímo na plyn?|Sublimace|Tání|Kondenzace|A
-Fyzika|Co měříme v joulech?|Teplotu|Tlak|Energii|C
-Fyzika|Který fyzik formuloval teorii relativity?|Isaac Newton|Albert Einstein|Nikola Tesla|B
-Fyzika|Jaká je rychlost světla ve vakuu?|300000 km/h|300000 km/s|3×10^8 m/s|C
-Fyzika|Co je ohmův zákon?|Zákon o tlaku plynu|Zákon o elektrickém odporu|Zákon o zrychlení tělesa|B
-Fyzika|Jaká je základní jednotka síly?|Watt|Newton|Pascal|B
-Fyzika|Co je to zvuk?|Vlna elektrické energie|Mechanická vlna|Vlna elektromagnetického pole|B
+Math|What is 150% of 100?|150|50|100|A
+Math|What is 8 divided by 2?|4|16|6|A
+Math|How many sides does a hexagon have?|5|6|7|B
+Chemistry|Which of these elements has 2 unpaired electrons in its valence shell?|Sodium|Calcium|Oxygen|C
+Chemistry|Which of these compounds has the most covalent bond?|NaCl|F2|MgS|B
+Chemistry|What acid is in vinegar?|Hydrochloric acid|Acetic acid|Sulfuric acid|B
+Biology|What is the name for the fluid surrounding the brain and spinal cord?|Blood|Lymph|Cerebrospinal fluid|C
+Biology|How many contractile vacuoles do most Paramecium species have?|One|Two|Three|B
+Biology|What is the name of the stage of tissue differentiation development?|Zygote|Morula|Gastrula|C
+Programming|What is programming?|A way to create websites|The process of writing instructions for a computer|Hardware|B
+Programming|Which programming language is most used for web applications?|Java|Python|JavaScript|C
+History|Who were the three kings of Israel?|Saul, David, Solomon|Charles, Louis, John|Peter, Paul, Mark|A
+History|What empire is known as the Golden Age of India?|Mauryan|Gupta|Mughal|B
+History|What was the oldest form of writing in Egypt?|Cuneiform|Hieroglyphs|Latin alphabet|B
+Math|What is the second derivative of the function f(x) = x^3?|6x|3x|0|A
+Math|What is the sum of the angles in a triangle?|90°|180°|360°|B
+Chemistry|What is a water molecule from a chemical point of view?|H2O|CO2|O2|A
+Chemistry|What is the oxidation state of oxygen in hydrogen peroxide?| -1| -2| 0|A
+Biology|Which organ is the main part of the human digestive system?|Heart|Liver|Stomach|C
+Biology|What is photosynthesis?|Decomposition of water|Creation of glucose from CO2 and light|Respiration|B
+Programming|What does the acronym OOP mean?|Open Online Programming|Object-Oriented Programming|Operational Output Process|B
+Programming|Which language is used for developing Android applications?|Swift|Kotlin|C#|B
+History|When did World War 1 begin?|1914|1918|1939|A
+History|Who was the first president of the USA?|George Washington|Thomas Jefferson|Abraham Lincoln|A
+Math|What is an equation with a variable in the exponent called?|Quadratic equation|Logarithmic equation|Exponential equation|C
+Math|What is Ludolf's number?|The number 42|The number pi|The number e|B
+Math|What is the second power?|multiplying a number by itself|dividing a number by itself|adding a number to itself|A
+Chemistry|Which element on the periodic table is denoted by the symbol H?|Helium|Aluminum|Hydrogen|C
+Chemistry|What is pH?|A measure of water hardness|A measure of the acidity or 3 of a solution|A measure of gas density|B
+Chemistry|Which gas is the most abundant in the Earth's atmosphere?|Oxygen|Carbon dioxide|Nitrogen|C
+Chemistry|What is the compound H₂O called?|Carbon dioxide|Hydrogen peroxide|Water|C
+Biology|What is the basic building block of living organisms?|Atom|Cell|Molecule|B
+Biology|Which organ is responsible for pumping blood?|Lungs|Heart|Stomach|B
+Biology|What is the process of converting light energy into chemical energy called?|Photosynthesis|Respiration|Transpiration|A
+Biology|What is photosynthesis?|The process of food digestion|The process of plant respiration|The process of converting light energy into chemical energy|C
+Programming|Which language is not object-oriented?|C++|Java|C|C
+Programming|What is debugging?|The process of writing code|The process of finding and fixing bugs in code|The process of compiling code|B
+Programming|What is a variable?|A way to name a function|A place in memory to store data|A type of loop|B
+Programming|What is the keyword for declaring a variable in Java?|var|let|int, String, etc.|C
+History|Which historical event happened in 1492?|Fall of the Roman Empire|Discovery of America|Invention of the printing press|B
+History|Which famous military leader was defeated at Waterloo?|Napoleon Bonaparte|Alexander the Great|Julius Caesar|A
+History|What is the Bastille?|A castle in France|A prison in Paris, whose capture started the French Revolution|The name of a street in Paris|B
+Literature|What is an allegory?|A short funny story|A story with a deeper, hidden meaning|A type of poem|B
+Literature|Who is the author of the novel "1984"?|Aldous Huxley|George Orwell|J. R. R. Tolkien|B
+Literature|What is a metaphor?|A simile using "like"|Transferring meaning based on similarity|Personal address of an inanimate object|B
+Physics|What is the basic unit of electric current?|Ohm|Ampere|Volt|B
+Physics|What is Newton's third law of motion?|The law of inertia|The law of force|The law of action and reaction|C
+Physics|What force keeps the planets in orbit around the Sun?|Magnetic force|Gravitational force|Centrifugal force|B
+Physics|What is the process of a solid turning directly into a gas called?|Sublimation|Melting|Condensation|A
+Physics|What do we measure in joules?|Temperature|Pressure|Energy|C
+Physics|Which physicist formulated the theory of relativity?|Isaac Newton|Albert Einstein|Nikola Tesla|B
+Physics|What is the speed of light in a vacuum?|300000 km/h|300000 km/s|3×10^8 m/s|C
+Physics|What is Ohm's law?|The law of gas pressure|The law of electrical resistance|The law of acceleration of a body|B
+Physics|What is the basic unit of force?|Watt|Newton|Pascal|B
+Physics|What is sound?|A wave of electrical energy|A mechanical wave|A wave of the electromagnetic field|B
